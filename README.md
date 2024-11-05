@@ -1,0 +1,1 @@
+It is a test file. I want to start using Git via Pycharm.
