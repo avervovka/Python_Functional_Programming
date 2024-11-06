@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc35d228-5ce9-4d5c-9998-9caf9059773b" name="Changes" comment="" />
+    <list default="true" id="cc35d228-5ce9-4d5c-9998-9caf9059773b" name="Changes" comment="New">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.4/14.py" beforeDir="false" afterPath="$PROJECT_DIR$/3.4/14.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,20 +44,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.10.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.8.executor&quot;: &quot;Run&quot;,
-    &quot;Python.9.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/uladzimirzadarozhny/PycharmProjects/Python_Functional_Programming&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.10.executor": "Run",
+    "Python.14.executor": "Run",
+    "Python.4.executor": "Run",
+    "Python.6.executor": "Run",
+    "Python.7.executor": "Run",
+    "Python.8.executor": "Run",
+    "Python.9.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/uladzimirzadarozhny/PycharmProjects/Python_Functional_Programming"
   }
-}</component>
-  <component name="RunManager" selected="Python.10">
+}]]></component>
+  <component name="RunManager" selected="Python.14">
     <configuration name="10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Functional_Programming" />
       <option name="ENV_FILES" value="" />
@@ -77,7 +81,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="14" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Functional_Programming" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -86,11 +90,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3.1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3.4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.1/6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.4/14.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.14" />
         <item itemvalue="Python.10" />
         <item itemvalue="Python.9" />
         <item itemvalue="Python.7" />
         <item itemvalue="Python.8" />
-        <item itemvalue="Python.6" />
       </list>
     </recent_temporary>
   </component>
@@ -191,6 +195,19 @@
       <option name="presentableId" value="Default" />
       <updated>1730450352918</updated>
     </task>
+    <task id="LOCAL-00001" summary="New">
+      <option name="closed" value="true" />
+      <created>1730883218626</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730883218626</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="New" />
+    <option name="LAST_COMMIT_MESSAGE" value="New" />
   </component>
 </project>
